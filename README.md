@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaithePi1050
+- 👋 Hi, I’m @SaithePi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web coding
+- 🌱 I’m currently learning Java coding
 - 💞️ I’m looking to collaborate on making real webs
 
 <!---
