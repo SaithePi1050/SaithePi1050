@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java coding
 
-Hello! I am SaithePi and using Github 😃
+Hello! I am 👾SaithePi👾 and using Github 😃
 
 <!---
 SaithePi1050/SaithePi1050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
