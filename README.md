@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SaithePi
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @SaithePi 👾
+- 👀 I’m interested in coding 💻
 - 🌱 I’m currently learning Java coding
 
 Hello! I am 👾SaithePi👾 and using Github 😃
