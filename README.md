@@ -47,6 +47,7 @@ My YouTube: https://www.youtube.com/channel/UC8U44qrsf76IetVxkOS4ewQ 📺
 
 
 
+<!-------Hello, again------>
 
 
 
@@ -96,6 +97,7 @@ My YouTube: https://www.youtube.com/channel/UC8U44qrsf76IetVxkOS4ewQ 📺
 
 
 
+<!-------Still strolling ------>
 
 
 
@@ -145,6 +147,7 @@ My YouTube: https://www.youtube.com/channel/UC8U44qrsf76IetVxkOS4ewQ 📺
 
 
 
+<!-------Stop strolling------>
 
 
 
@@ -194,6 +197,7 @@ My YouTube: https://www.youtube.com/channel/UC8U44qrsf76IetVxkOS4ewQ 📺
 
 
 
+<!-------Your not going to like it------>
 
 
 
@@ -243,13 +247,12 @@ My YouTube: https://www.youtube.com/channel/UC8U44qrsf76IetVxkOS4ewQ 📺
 
 
 
+<!-------Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you------>
 
 
-
-
-
-
-
-
-
-
+<!-------I told you to stop strolling------>
